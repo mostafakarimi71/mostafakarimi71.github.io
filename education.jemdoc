@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{education.html}
+= Education
+
+
+~~~~
+{}{img_left}{photos/aggie.jpg}{tamu}{300}{200}{}
+I graduated with a *Ph.D. degree* in Electrical Engineering from [https://www.tamu.edu/ Texas A\&M University] in 2020.
+~~~~
+
+~~~~
+{}{img_left}{photos/sharif.jpg}{sharif}{300}{200}{}
+I graduated with *double bachelor degrees* in [http://ee.sharif.ir/ Electrical Engineering] and [http://mathsci.sharif.ir/ Computer Science] from [http://www.sharif.ir/home Sharif University of Technology] in 2015.
+~~~~

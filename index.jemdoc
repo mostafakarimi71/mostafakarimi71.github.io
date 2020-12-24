@@ -1,0 +1,69 @@
+# jemdoc: menu{MENU}{example.html}
+= Mostafa Karimi
+
+~~~
+{}{img_left}{photos/mostafa_karimi.jpg}{My personal photo}{200}{300}{}
+Mostafa Karimi\n
+Data and Applied Scientist\n
+Microsoft Corporation\n
+= contact
+Redmond,WA 98052\n
+Email: [mkarimi@microsoft.com]\n
+Phone: +1-979-224-5153\n
+~~~
+
+= About Me
+I am currently a data and applied scientist in Microsoft. I interned in Ancestry and Anadarko Petroleum as a data scientist in summer of 2019 and 2018. I graduated with a Ph.D. degree at Texas A&M University (TAMU) in Electrical Engineering under the supervision of Professor [https://shen-lab.github.io/ Yang Shen] in 2020. 
+I worked as a graduate research assistant affiliated with the [http://gsp.tamu.edu/ Genomic Signal Processing Laboratory] and the [http://cbgse.tamu.edu/ Center for Bioinformatics and Genomic Systems Engineering]. My research lied at the intersection of Combinatorial Optimization and Machine Learning with applications in Molecular Biology and Genetics.
+Before joining TAMU, I received a B.S. in [http://ee.sharif.ir/ Electrical Engineering] and a B.S. in [http://mathsci.sharif.ir/ Computer Science] from [http://www.sharif.ir/home Sharif University of Technology (SUT)] in 2015. 
+At SUT, I was a member of [http://acri.sharif.ir/home Advanced Communications Research Institute] under the supervision of Professor [http://acri.sharif.ir/resume/marvasti Farokh Marvasti] for three years. 
+
+
+= News
+
+*2020*
+
+- Joined *Microsoft* as a Data and applied scientist in Speech Research Team. 
+- "[https://pubs.acs.org/doi/full/10.1021/acs.jcim.0c00866 Explainable Deep Relational Networks for Predicting Compound-Protein Affinities and Contacts]", published in *Journal of Chemical Information and Modeling*
+- "[https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c00593 De Novo Protein Design for Novel Folds Using Guided Conditional Wasserstein Generative Adversarial Networks]", published in *Journal of Chemical Information and Modeling*
+- "[https://arxiv.org/abs/2003.07494 Directionally Dependent Multi-View Clustering Using Copula Model]", published in *Plos One*
+- "[https://openaccess.thecvf.com/content_CVPRW_2020/html/w34/Karimi_Illegible_Text_to_Readable_Text_An_Image-to-Image_Transformation_Using_Conditional_CVPRW_2020_paper.html Illegible Text to Readable Text: An Image-to-Image Transformation using Conditional Sliced Wasserstein Adversarial Networks]", accepted in *CVPR* workshop 2020 and submitted as *US patent*.
+- "[https://academic.oup.com/bioinformatics/article/36/Supplement_1/i445/5870465 Network-principled deep generative models for designing drug combinations as graph sets]", accepted in *ISMB* and published in *Bioinformatics*
+
+
+*2019*
+
+- Joined Ancestry.com as a Data Scientist intern.
+- Our paper "[http://www.cell.com/cell-reports/fulltext/S2211-1247(18)30437-6 Genomic and Molecular Landscape of DNA Damage Repair Deficiency Across The Cancer Genome Atlas]"
+has been selected among *best of 2018 Cell Reports* ([https://cellreports-bestof2018.elsevierdigitaledition.com/ news])
+- "[https://onlinelibrary.wiley.com/doi/10.1002/humu.23826 Predicting Pathogenicity of Missense Variants with Weakly Supervised Regression]"
+published in *Human Mutation*
+- "[https://onlinelibrary.wiley.com/doi/10.1002/humu.23843 Evaluating the predictions of the protein stability change upon single amino acid substitutions for the FXN CAGI5 challenge]"
+published in *Human Mutation*
+- "[https://www.nature.com/articles/s41467-019-09799-2 Community assessment to advance computational prediction of cancer drug combinations in a pharmacogenomic screen]"
+published in *Nature Communications*
+- "[https://www.nature.com/articles/s41587-019-0073-7 Engineering a HER2-specific antibody-drug conjugate to increase lysosomal delivery and therapeutic efficacy]" 
+published in *Nature Biotechnology* (Highlighted in [https://research.tamu.edu/2019/04/09/delivering-drugs-to-cancer-cells-without-poisoning-patients-body/ TAMU research bulletin], 
+[https://engineering.tamu.edu/news/2019/04/engineering-a-promising-cancer-treatment.html?fbclid=IwAR2AfvCclMaI67XaM_Lrn2Z3Dyr1vjM75uW7x9mVcmFNlaFZKn9dT2l-Pc4 TAMU Engineering], 
+and [https://vitalrecord.tamhsc.edu/engineering-a-promising-cancer-treatment/ TAMU health science center])
+- "[https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz111/5320555 DeepAffinity: 
+Interpretable Deep Learning of Compound-Protein Affinity through Unified Recurrent and Convolutional Neural Networks]" published in *Bioinformatics*.
+
+*2018*
+
+- Joined Anadarko Petroleum Corporation as a Data Scientist intern.
+- "[https://academic.oup.com/bioinformatics/article/34/17/i811/5093221 Interconnected Cost Function Networks (iCFN): an exact algorithm for multistate protein design with substate ensembles]" accepted in *ECCB 2018* and published in *Bioinformatics*.
+- "[https://elifesciences.org/articles/37161 The SERM/SERD Bazedoxifene Disrupts ESR1 Helix 12 to Overcome Acquired Hormone Resistance in Breast Cancer Cells]" published in *eLife*.
+- "[http://www.cell.com/cell-reports/fulltext/S2211-1247(18)30437-6 Genomic and Molecular Landscape of DNA Damage Repair Deficiency Across The Cancer Genome Atlas]" published in *Cell Reports*.
+
+*2016*
+
+- "[http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7076640&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7076640  Multihypothesis Compressed Video Sensing Technique]" published in *IEEE TCSVT*.
+- Received a [http://www.embs.org/awards-young-professionals-embc-2016/ *NSF award*] for young professionals contributing to smart and connected
+health & attending 2016 IEEE EMBS annual conference.
+~~~
+You can download my [cv/mostafakarimi_CV.pdf CV].\n
+You can check my [https://scholar.google.com/citations?user=pmt7w7kAAAAJ&hl=en&oi=ao google scholar].\n
+You can check my [https://www.linkedin.com/in/mostafa-karimi-318437b7 Linkedin].\n
+You can check my [https://github.com/mostafakarimi71 github repository].\n
+~~~

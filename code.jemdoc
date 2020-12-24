@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{code.html}
+= Code
+
+[https://github.com/Shen-Lab/gcWGAN gcWGAN]: De novo protein design for novel folds using guided conditional Wasserstein generative adversarial networks
+
+[https://github.com/Shen-Lab/Drug-Combo-Generator Drug-Comb-Generator]: Network-principled deep generative models for designing drug combinations as graph sets
+
+[https://github.com/Shen-Lab/WSR-PredictPofPathogenicity WSR-PredictPofPathogenicity]: Predicting Pathogenicity of Missense Variants with Weakly Supervised Regression 
+
+[https://shen-lab.github.io/software/iCFN iCFN]: an exact algorithm for multistate protein design with substate ensembles
+
+[https://github.com/Shen-Lab/DeepAffinity DeepAffinity]: Interpretable Deep Learning of Compound-Protein Affinity through Unified Recurrent and Convolutional Neural Networks

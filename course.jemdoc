@@ -1,0 +1,36 @@
+# jemdoc: menu{MENU}{course.html}
+= Selected Courses
+
+=== Machine Learning courses:
+- Deep Learning: Theory and application
+- Machine Learning Methods in Computer Vision
+- Machine Learning with Network
+- Pattern Recognition
+- Machine Learning
+- Probabilistic Graphical Modeling
+- Artificial Intelligence
+
+=== Optimization courses:
+- Linear Programming
+- Integer Programming
+- Convex Optimization (Audited)
+
+=== Algorithm courses:
+- Analysis of Algorithm
+- Data Structure
+- Advanced Programming
+
+=== Math \& Statistic courses:
+- Information Theory
+- Game Theory
+- Theory of Inference (Statistical Inference)
+- Advanced Bayesian Modeling and Computation
+- Matrix Computation
+- Stochastic Process
+- Graph Theory
+- Linear Algebra
+
+=== Biological related courses:
+- Algorithms in Structural Bioinformatic
+- Engineering Applications in Genomics
+- Neural Modeling.

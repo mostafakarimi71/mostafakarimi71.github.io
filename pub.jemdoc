@@ -1,0 +1,69 @@
+# jemdoc: menu{MENU}{pub.html}
+= Publications 
+
+~~~
+You can check my [https://scholar.google.com/citations?user=pmt7w7kAAAAJ&hl=en&oi=ao google scholar].\n
+~~~
+
+== Under review or preparation
+
+Anna Cichonska, et al, "Crowdsourced mapping of unexplored target space of kinase inhibitors" Under revision ([https://www.biorxiv.org/content/10.1101/2019.12.31.891812v1.abstract biorxiv])
+
+== Published
+
+=== 2020
+
+\[J13\] *M. Karimi*, D. Wu, Z. Wang, and Y. Shen, "[https://pubs.acs.org/doi/full/10.1021/acs.jcim.0c00866 Explainable Deep Relational Networks for Predicting Compound-Protein Affinities and Contacts]", {{<font color=red size=+0.5><b>}}Journal of Chemical Information and Modeling{{</b></font>}}
+
+\[J12\] *M. Karimi*, S. Zhu, Y. Cao, and Y. Shen, "[https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c00593 De Novo Protein Design for Novel Folds Using Guided Conditional Wasserstein Generative Adversarial Networks]", {{<font color=red size=+0.5><b>}}Journal of Chemical Information and Modeling{{</b></font>}} ([https://github.com/Shen-Lab/gcWGAN code])
+
+\[J11\] K. Afrin, A. Iquebal, *M. Karimi*, A. Larsen, S. Lee and B. Mallick, "[https://arxiv.org/abs/2003.07494 Directionally Dependent Multi-View Clustering Using Copula Model]", {{<font color=red size=+0.5><b>}}Plos One{{</b></font>}}
+
+\[C1\] *M. Karimi*, G. Veni, Y. Yu, "[https://openaccess.thecvf.com/content_CVPRW_2020/html/w34/Karimi_Illegible_Text_to_Readable_Text_An_Image-to-Image_Transformation_Using_Conditional_CVPRW_2020_paper.html Illegible Text to Readable Text: An Image-to-Image Transformation using Conditional Sliced Wasserstein Adversarial Networks]", {{<font color=red size=+0.5><b>}}CVPR{{</b></font>}} workshop 2020.
+
+\[J10\] *M. Karimi*, A. Hassanzadeh, and Y. Shen, "[https://academic.oup.com/bioinformatics/article/36/Supplement_1/i445/5870465 Network-principled deep generative models for designing drug combinations as graph sets]", {{<font color=red size=+0.5><b>}}Bioinformatics{{</b></font>}} ([https://github.com/Shen-Lab/Drug-Combo-Generator code])
+
+=== 2019:
+
+\[J9\] Y. Cao, Y. Sun, *M. Karimi*, H. Chen, O. Moronfoye, and Y. Shen, "[https://onlinelibrary.wiley.com/doi/10.1002/humu.23826 Predicting Pathogenicity of Missense Variants with Weakly Supervised Regression]",{{<font color=red size=+0.5><b>}} Human Mutation{{</b></font>}} ([https://github.com/Shen-Lab/WSR-PredictPofPathogenicity code])
+
+\[J8\] J. Kang , W. Sun , P. Khare , *M. Karimi* , X. Wang , Y. Shen , R. Ober, E. Ward "[https://www.nature.com/articles/s41587-019-0073-7 Engineering a HER2-specific antibody-drug conjugate to increase lysosomal delivery and therapeutic efficacy]", {{<font color=red size=+0.5><b>}}Nature Biotechnology{{</b></font>}}
+
+\[J7\] *M. Karimi*, D. Wu, Z. Wang, and Y. Shen, "[https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz111/5320555 DeepAffinity: Interpretable Deep Learning of Compound-Protein Affinity through Unified Recurrent and Convolutional Neural Networks]", {{<font color=red size=+0.5><b>}}Bioinformatics{{</b></font>}} ([https://arxiv.org/abs/1806.07537 arXiv], [https://www.biorxiv.org/content/early/2018/06/20/351601 BioRxiv], [https://github.com/Shen-Lab/DeepAffinity code])
+
+\[J6\] MP. Menden, et al,"[https://www.nature.com/articles/s41467-019-09799-2 A cancer pharmacogenomic screen powering crowd-sourced advancement of drug combination prediction]", {{<font color=red size=+0.5><b>}}Nature Communication{{</b></font>}} ([https://www.biorxiv.org/content/early/2018/02/13/200451 bioRxiv])
+
+\[J5\] C. Savojardo, et al,"[https://onlinelibrary.wiley.com/doi/10.1002/humu.23843 Evaluating the predictions of the protein stability change upon single amino acid substitutions for the FXN CAGI5 challenge]", {{<font color=red size=+0.5><b>}}Human Mutation{{</b></font>}}
+
+=== 2018:
+\[J4\] *M. Karimi*, and Y. Shen, "[https://academic.oup.com/bioinformatics/article/34/17/i811/5093221 Interconnected Cost Function Networks (iCFN): an exact algorithm for multistate protein design with substate ensembles]",{{<font color=red size=+0.5><b>}}Bioinformatics{{</b></font>}} ([https://shen-lab.github.io/software/iCFN code]).
+
+\[J3\] Sean W. Fanning et al,"[https://elifesciences.org/articles/37161 The SERM/SERD Bazedoxifene Disrupts ESR1 Helix 12 to Overcome Acquired Hormone Resistance in Breast Cancer Cells]", {{<font color=red size=+0.5><b>}}eLife{{</b></font>}} ([https://www.biorxiv.org/content/early/2018/04/23/306472 bioRxiv])
+
+\[J2\] T. Knijnenburg et al,"[http://www.cell.com/cell-reports/fulltext/S2211-1247(18)30437-6 Genomic and Molecular Landscape of DNA Damage Repair Deficiency Across The Cancer Genome Atlas]", {{<font color=red size=+0.5><b>}}Cell Reports{{</b></font>}}
+
+=== 2016:
+\[J1\] M. Azghani, *M. Karimi*, and F. Marvasti, "[http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7076640&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7076640  Multihypothesis Compressed Video Sensing Technique]",{{<font color=red size=+0.5><b>}} IEEE Transaction on circuits and systems for video technology{{</b></font>}} ([https://arxiv.org/abs/1412.4576 arXiv])
+
+
+== Presentations
+*M.Karimi*, A. Hassanzadeh, and Y.Shen, "Network-principled deep generative models for designing drug combinations as graph sets", oral talk at [https://www.iscb.org/ismb2020 Intelligent Systems for Molecular Biology (ISMB)], July, 2020.
+
+*M.Karimi*, A. Hassanzadeh, and Y.Shen, "Network-principled deep generative models for designing drug combinations as graph sets", oral talk at [https://shen-lab.github.io/ecen-bio-seminar/ ECEN Bio seminar at Texas A&M university], August, 2020.
+
+*M.Karimi*, and Y.Shen, "Interconnected Cost Function Networks (iCFN): an exact algorithm for multistate protein design", poster presentation at [https://genomeinterpretation.org/ {{<font color=red size=+0.5><b>}}CAGI*{{</b></font>}} workshop], Dec 7, 2019, UCSF Mission Bay, San Francisco, CA, USA.
+
+*M.Karimi*, D. Wu, Z. Wang, and Y.Shen, "Deep affinity: interpretable deep learning of compound-protein affinity through unified recurrent and convolutional neural networks", 
+poster presentation at [https://biochemistry.tamu.edu/event/biophysical-society-spring-symposium/ Biochemistry and Biophysics Research and Technologies Symposium] March 29, 2019
+
+*M. Karimi*, Y. Shen, "Anticipating Cancer Mutations through Combinatorial Protein Design", poster presentation at [https://genomics.tamu.edu/tamu-dna-day/ TAMU DNA day] April 24, 2018
+
+*M.Karimi*, and Y.Shen, "Interconnected Cost Function Networks (iCFN): an exact algorithm for multistate protein design", poster presentation at [http://conferences.compbio.ku.edu/mpi2018/ {{<font color=red size=+0.5><b>}}Modeling of Protein Interaction (MPI){{</b></font>}}], Nov 8, 2018, Lawrence, KS, USA.
+
+*M.Karimi*, D. Wu, Z. Wang, and Y.Shen, "Deep affinity: interpretable deep learning of compound-protein affinity through unified recurrent and convolutional neural networks", poster presentation at [https://sites.google.com/tamu.edu/winedaleworkshop Winedale Workshop], Oct 19, 2018, Winedale, TX, USA.
+
+*M.Karimi*, D. Wu, Z. Wang, and Y.Shen, "Deep affinity: interpretable deep learning of compound-protein affinity through unified recurrent and convolutional neural networks", poster presentation at [https://iamcs.tamu.edu/bioinformatics-and-cancer-symposium/ Bioinformatics and Cancer Symposium], Sep 21, 2018, College Station, TX, USA.
+
+*M.Karimi*, and Y.Shen, "Interconnected Cost Function Networks (iCFN): an exact algorithm for multistate protein design", poster presentation at [http://vpr.tamu.edu/researchdevelopment/registrations/eng-life-2017/view ENG-LIFE 2017], April 14, 2017, College Station, TX, USA.
+
+*M.Karimi*, and Y.Shen, "Multiscale Computational Tools for Antibiotic Resistance Big Data: Patterns, Mechanisms, and Personalized Therapeutics", invited talk at [https://embc.embs.org/2016/ 38th IEEE EMBC 2016] for [http://www.embs.org/awards-young-professionals-embc-2016/  NSF Award for Young Professionals Contributing to Smart and Connected Health], August 20, 2016, Orlando, FL, USA.
